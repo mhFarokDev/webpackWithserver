@@ -1,0 +1,46 @@
+{
+    "products" : [
+        {
+            "id"        :1,
+            "title"     : "package Food",
+            "price"     :   200,
+            "sellPrice" : 180,
+            "photo"     : "https://www.un.org/sites/un2.un.org/files/buy-local-and-seasonal-food.png"
+        },
+        {
+            "id"        :2,
+            "title"     : "Onion STore",
+            "price"     :   2100,
+            "sellPrice" : 1800,
+            "photo"     : "https://who-euro.shorthandstories.com/food-and-nutrition-tips-during-self-quarantine/assets/WoizMxIOjR/cover-photo-2560x1922.jpeg"
+        },
+        {
+            "id"        : 3,
+            "title"     : "Ginjar",
+            "price"     :   190,
+            "sellPrice" : 122,
+            "photo"     : "https://health.clevelandclinic.org/wp-content/uploads/sites/3/2019/06/cropped-GettyImages-643764514.jpg"
+        },
+        {
+            "id"        :4,
+            "title"     : "Tomato",
+            "price"     :   300,
+            "sellPrice" : 100,
+            "photo"     : "https://www.gethealthystayhealthy.com/sites/default/files/2019-04/how-to-eat-healthy.jpg"
+        },
+        {
+            "id"        :5,
+            "title"     : "cow Meat",
+            "price"     :   1000,
+            "sellPrice" : 980,
+            "photo"     : "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/04/02/13/istock-1155240408.jpg?quality=75&width=982&height=726&auto=webp"
+        },
+        {
+            "id"        :6,
+            "title"     : "Banana",
+            "price"     :   600,
+            "sellPrice" : 400,
+            "photo"     : "https://www.tvtbarcelona.com/wp-content/uploads/2019/08/eat-your-way-to-wellness.jpg"
+        }
+    ]
+}
